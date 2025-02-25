@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Tensegrity Robotics
+title: Soft Robotics Simulators
 description: This webpage is meant as a resource for the Soft Robotics Community
 plugins:
   - jekyll-relative-links
