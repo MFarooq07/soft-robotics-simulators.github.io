@@ -1,7 +1,7 @@
 # Added first paper to the personal 
 
 ## Details related to the paper added:
-### Paper name:
+1. ### Paper name:
 Modular Controllers Facilitate the Co-Optimization of Morphology and Control in Soft Robots 
 
 ### Date added:
